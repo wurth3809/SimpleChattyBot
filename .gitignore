@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot (Java)/task/build/
+/Topics/Printing data/Theory/build/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
